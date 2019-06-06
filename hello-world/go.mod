@@ -1,3 +1,3 @@
-module github.com/neuralsandwich/microservices/hello-world
+module github.com/neuralsandwich/how-to-microservice/hello-world
 
 go 1.12
